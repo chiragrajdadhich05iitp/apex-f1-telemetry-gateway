@@ -25,6 +25,7 @@
 Yeh system FIA / FastF1 timing loops aur high-frequency car dynamics ko ingest karke frame-by-frame kinematics serialize karta hai, aur non-blocking local WebSocket server (`ws://127.0.0.1:8765`) par 20Hz deterministic packets broadcast karta hai. Saath hi isme ek standalone **Spacelith-style brutalist web dashboard** shamil hai jo browser ke andar live Three.js 3D chassis wireframe aur 60 FPS rolling canvas waveforms render karta hai.
 
 ---
+<img width="1917" height="730" alt="Image" src="https://github.com/user-attachments/assets/ae8e3bdf-e68e-40d7-99ee-aca3d69aa759" />
 
 ## 🏛️ System Architecture
 
